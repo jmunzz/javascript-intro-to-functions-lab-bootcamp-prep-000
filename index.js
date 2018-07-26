@@ -28,6 +28,4 @@ function sayHiToGrandma(string)
   === string) {
     return "YES INDEED!"
   }
-
-  }
  }
