@@ -29,6 +29,7 @@ function sayHiToGrandma(string)
     return "YES INDEED!"
   }
  }
- else `string` is "I love you, Grandma"{
+ else `string` is "I love you, Grandma" function (){
+   expect
    
  }
