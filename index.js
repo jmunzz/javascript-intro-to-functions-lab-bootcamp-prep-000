@@ -28,4 +28,9 @@ function sayHiToGrandma(string)
   string){
     return "YES INDEED!"
   } 
-}
+  else ("I love you, Grandma"===
+  string){
+    return "I love you, too"
+  }
+  
+  }
