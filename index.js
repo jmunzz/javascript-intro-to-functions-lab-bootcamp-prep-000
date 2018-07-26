@@ -29,5 +29,7 @@ function sayHiToGrandma(string)
     return "YES INDEED!"
   }
  }
-  else (string.t
+  else {
+    return ()
+  }
  
