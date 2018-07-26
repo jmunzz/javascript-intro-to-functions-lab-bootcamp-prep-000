@@ -18,12 +18,3 @@ function logShout(string){
 function logWhisper(string){
   console.log("hello")
 }
-function sayHiToGrandma(string){
-  return (string) 
-}
-function sayHiToGrandma(HELLO){
-  return ("YES INDEED")
-}
-function sayHiToGrandma(hello){
-  return ("I can't hear you")
-}
