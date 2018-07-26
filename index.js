@@ -30,6 +30,6 @@ function sayHiToGrandma(string)
   }
  }
  else `string` is "I love you, Grandma" function (){
-   expect
+   expect(sayHiToGrandma("I love you "))
    
  }
