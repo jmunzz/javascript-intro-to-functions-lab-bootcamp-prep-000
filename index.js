@@ -22,8 +22,8 @@ function sayHiToGrandma(string){
   return (string) 
 }
 function sayHiToGrandma(HELLO){
-  return("YES INDEED")
+  return ("YES INDEED")
 }
 function sayHiToGrandma(hello){
-  return("I can't hear you")
+  return ("I can't hear you")
 }
