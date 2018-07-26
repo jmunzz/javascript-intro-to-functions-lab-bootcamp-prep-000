@@ -26,3 +26,7 @@ function sayHiToGrandma(string)
     return "YES INDEED!"
 }
 }
+{
+  var lowercase= 'hello'
+  if ()
+}
