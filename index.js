@@ -29,4 +29,4 @@ function sayHiToGrandma(string)
     return "YES INDEED!"
   }
  }
- else if 
+ else `string` is "I love you, Grandma"
