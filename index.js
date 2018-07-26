@@ -28,9 +28,8 @@ function sayHiToGrandma(string)
   string){
     return "YES INDEED!"
   }
-  else (string.toMixedCase()===
-  string){
-    return "I love you,too"
+  else {
+    console.log("I love you, too")
   }
   
   }
