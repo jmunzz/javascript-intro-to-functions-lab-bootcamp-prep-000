@@ -29,7 +29,3 @@ function sayHiToGrandma(string)
     return "YES INDEED!"
   }
  }
- else `string` is "I love you, Grandma" function (){
-   expect(sayHiToGrandma("I love you Grandma")).toEqual
-   ("I love you too.")
-    }
