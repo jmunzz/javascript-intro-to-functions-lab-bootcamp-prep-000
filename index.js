@@ -28,4 +28,9 @@ function sayHiToGrandma(string)
   string){
     return "YES INDEED!"
   }
-  else (string.)
+  else (string.MixedCase()===
+  string){
+    return "I love you,too"
+  }
+  
+  }
