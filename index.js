@@ -14,7 +14,5 @@ function whisper(string){
 }
 function say(string){
 }
-function say(string){
-  return string.toMixedCase()
-var toMixedCase = 
-}
+function logShout(string){
+  console.log()
