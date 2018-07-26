@@ -18,3 +18,12 @@ function logShout(string){
 function logWhisper(string){
   console.log("hello")
 }
+function sayHiToGrandma(string)
+{
+  var uppercase='HELLO!'
+  if (uppercase.toUpperCase()
+  === uppercase) {
+    return "YES INDEED!"}
+  }
+  
+}
