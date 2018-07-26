@@ -18,3 +18,13 @@ function logShout(string){
 function logWhisper(string){
   console.log("hello")
 }
+function sayHiToGrandma(string){
+}
+function sayHiToGrandma(hello){
+  return ("I cant hear you!")
+}
+function sayHiToGrandma(HELLO){
+  return ("YES INDEED")
+}
+
+}
