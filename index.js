@@ -28,8 +28,4 @@ function sayHiToGrandma(string)
   string){
     return "YES INDEED!"
   }
- }
-  else {
-    return ("I love you, too")
-  }
- 
+  else (string.)
