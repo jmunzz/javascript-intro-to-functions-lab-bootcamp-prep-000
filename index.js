@@ -12,7 +12,3 @@ function whisper(string){
 function whisper(string){
   return string.toLowerCase()
 }
-function say(string){
-}
-function logShout(string){
-  console.log()
