@@ -32,5 +32,4 @@ function sayHiToGrandma(string)
   string){
     return "I love you, too"
   }
-  
   }
