@@ -23,6 +23,3 @@ function sayHiToGrandma(string){
 function sayHiToGrandma(hello){
   return string("I can't hear you")
 }
-
-}
-}
